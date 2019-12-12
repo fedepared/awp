@@ -5,7 +5,7 @@
   "background_color": "#537590",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "/",
+  "start_url": "/awp/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
