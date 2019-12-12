@@ -120,7 +120,7 @@ function configurarSW(){
             console.log('Service worker registrado exitosamente', reg);
         })
         .catch(err => {
-            console.log('Error! registro sw', reg);
+            console.log('Error! registro sw', err);
         })
     }
 }
