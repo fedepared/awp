@@ -115,7 +115,7 @@ function renderLista() {
 /*configurar */
 function configurarSW(){
     if('serviceWorker' in navigator){
-        navigator.serviceWorker.register('awp/sw.js')
+        navigator.serviceWorker.register('./sw.js')
         .then(reg =>{
             console.log('Service worker registrado exitosamente', reg);
         })
