@@ -4,7 +4,7 @@
   "theme_color": "#537590",
   "background_color": "#537590",
   "display": "standalone",
-  "Scope": "/",
+  "Scope": "/awp",
   "start_url": "/",
   "icons": [
     {
